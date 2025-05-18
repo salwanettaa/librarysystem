@@ -1,0 +1,9 @@
+com\library\ReportServlet.class
+com\library\Member.class
+com\library\AuthenticationServlet.class
+com\library\AuthenticationFilter.class
+com\library\Book.class
+com\library\LibraryServlet.class
+com\library\User.class
+com\library\Loan.class
+com\library\DatabaseConnection.class
